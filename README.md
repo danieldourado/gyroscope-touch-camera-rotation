@@ -1,7 +1,7 @@
 # Gyroscope and Touch Camera Rotation
 
 # To test:
-Just open Assets/SampleScene
+Open Assets/SampleScene
 
 # Add to your project:
 Attach both Assets/GyroscopeCameraRotation.cs and Assets/TouchCameraRotation.cs to the camera gameobject.
