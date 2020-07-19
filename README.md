@@ -1,5 +1,7 @@
 # Gyroscope and Touch Camera Rotation
 
+This enables your camera to rotate using the gyroscope and touch at the same time
+
 # To test:
 Open Assets/SampleScene
 
