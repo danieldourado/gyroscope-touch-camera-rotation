@@ -1,4 +1,4 @@
-# Gyroscope and Touch Camera Rotation
+# Gyroscope and Touch Camera Rotation For Unity3D
 
 This enables your camera to rotate using the gyroscope and touch at the same time
 
